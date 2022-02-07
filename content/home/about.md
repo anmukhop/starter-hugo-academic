@@ -8,6 +8,6 @@ weight: 20
 title: Biography
 design:
   background:
-    image: 0001.jpg
+    image: ""
 ---
 I am Anirban. I am a second year PhD student at Virginia Tech.
