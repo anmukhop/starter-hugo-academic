@@ -28,7 +28,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Virginia Tech
-      year: 2022
+      year: 2025
+    - course: M.S. in Computer Science
+      institution: Virginia Tech
+      year: 2023
     - course: Bachelor of Technology in Computer Science and Engineering
       institution: Jadavpur University, India
       year: 2018
