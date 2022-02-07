@@ -1,6 +1,6 @@
 ---
 title: Anirban Mukhopadhyay
-role: Professor of Artificial Intelligence
+role: Ph.D. student at Virginia Tech, Department of Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -12,38 +12,33 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=rg8c7UUAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/anmukhop
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/anirban-mukhopadhyay-b44648143/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Virginia Tech
+    url: https://cs.vt.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Computer Science
+      institution: Virginia Tech
+      year: 2022
+    - course: Bachelor of Technology in Computer Science and Engineering
+      institution: Jadavpur University, India
+      year: 2018
+email: anirban@vt.edu
 superuser: true
+user_groups: []
 highlight_name: true
 ---
 Anirban Mukhopadhyay is a second-year PhD student at Virginia Tech.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
