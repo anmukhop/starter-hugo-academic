@@ -19,7 +19,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Developed a web app for students to participate in Capture the Flag (CTF) events to discover, archive, verify and report possible social media misinformation. The app was used by 40 students every week during the Spring '21 semester.
+Developed a web app for students to participate in Capture the Flag (CTF) events to discover, archive, verify and report possible social media misinformation. The Quriosinty app was used by 40 students every week during the Spring '21 semester.
 
 Built REST API endpoints to extend the platform for integrating new OSINT tools. 
 
