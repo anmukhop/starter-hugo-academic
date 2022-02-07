@@ -1,7 +1,7 @@
 ---
 title: Anirban Mukhopadhyay
 role: Professor of Artificial Intelligence
-avatar_filename: fb_img_1641288069904.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
