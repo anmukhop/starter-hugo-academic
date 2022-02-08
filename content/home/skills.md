@@ -6,17 +6,17 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
   - description: 100%
+    icon: tv
+    icon_pack: fas
+    name: Full-stack Development
+  - description: 80%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Data analysis
+  - description: 70%
+    icon: pencil-ruler
     icon_pack: fas
-    name: Photography
+    name: Design Research
 active: true
 ---
