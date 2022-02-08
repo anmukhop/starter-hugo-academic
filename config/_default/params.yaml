@@ -31,10 +31,10 @@ address:
   country_code: US
 
 contact_links:
-  - icon: twitter
+  - icon: linkedin-in
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Please connect with me on LinkedIn
+    link: 'https://www.linkedin.com/in/anirban-mukhopadhyay-b44648143/'
 
 # Site header
 
