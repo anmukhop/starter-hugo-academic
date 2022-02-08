@@ -8,7 +8,7 @@ headless: true
 weight: 15
 title: Academic Template
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:
