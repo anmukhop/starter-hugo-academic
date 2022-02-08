@@ -5,7 +5,7 @@ headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
-active: true
+active: false
 content:
   filters:
     folders:
