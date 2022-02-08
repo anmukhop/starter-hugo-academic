@@ -34,7 +34,7 @@ links:
     icon_pack: ai
     name: Heroku app hosting
 image:
-  filename: screen-shot-2022-01-27-at-1.26.09-pm.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Flags related to possible online misinformation
