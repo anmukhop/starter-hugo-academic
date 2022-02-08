@@ -22,10 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+   - title: Graduate Research Student
+    company: Department of Computer Science, Virginia Tech
+    company_url: 'crowd.cs.vt.edu'
+    company_logo: org-x
+    location: Blacksburg, Virginia
+    date_start: '2021-01-07'
+    date_end: ''
+    description: |2-
+        Research Assistant at the Crowd Intelligence Lab with Dr. Kurt Luther.
+        RelevantCoursework - Human-AI Interaction, Data Analytics, Deep Learning, Usability Engineering, Computer Supported Collaborative Work
+    
   - title: Software Engineer
     company: Microsoft
     company_url: ''
-    company_logo: org-ms
+    company_logo: org-gc
     location: Hyderabad, India
     date_start: '2018-06-15'
     date_end: '2020-12-21'
@@ -39,7 +51,7 @@ experience:
   - title: Software Development Engineer Intern
     company: Amazon
     company_url: ''
-    company_logo: org-az
+    company_logo: org-x
     location: Hyderabad, India
     date_start: '2017-05-15'
     date_end: '2027-07-15'
