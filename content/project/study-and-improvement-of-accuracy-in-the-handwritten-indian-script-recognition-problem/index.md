@@ -18,6 +18,9 @@ summary: >-
   \[2] Mukhopadhyay, Anirban, et al. "Handwritten Indic script recognition based on the Dempster–Shafer theory of evidence." Journal of Intelligent Systems 29.1 (2020): 264-282.
 draft: false
 featured: false
+authors:
+  - Anirban Mukhopadhyay
+  - Ram Sarkar
 tags:
   - Classification
   - Indian script recognition in handwritten documents
