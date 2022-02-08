@@ -28,7 +28,7 @@ tags:
   - Research through Design
 categories:
   - HCI
-external_link: https://quriosinty.herokuapp.com
+external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
     icon_pack: ai
