@@ -6,15 +6,15 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 100%
+  - description: MySQL, SQLServer, PostgreSQL, DynamoDB, Django, React, Heroku app hosting
     icon: tv
     icon_pack: fas
     name: Full-stack Development
-  - description: 80%
+  - description: Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib
     icon: chart-line
     icon_pack: fas
     name: Data analysis
-  - description: 70%
+  - description: Survey Design, Semi-structured interview and Thematic Analysis, Wireframing, Contextual Analysis
     icon: pencil-ruler
     icon_pack: fas
     name: Design Research
