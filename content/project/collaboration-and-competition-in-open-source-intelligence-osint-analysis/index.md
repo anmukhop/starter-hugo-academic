@@ -32,7 +32,7 @@ external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
     icon_pack: ai
-    name: Heroku app hosting
+    name: App hosted on Heroku
 image:
   filename: featured.png
   focal_point: Smart
