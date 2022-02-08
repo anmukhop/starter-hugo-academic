@@ -6,7 +6,7 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: MySQL, SQLServer, PostgreSQL, DynamoDB, Django, React, Heroku app hosting
+  - description: REST APIs, SQLServer, PostgreSQL, DynamoDB, Django, React, Heroku app hosting
     icon: tv
     icon_pack: fas
     name: Full-stack Development
