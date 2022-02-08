@@ -42,4 +42,4 @@ highlight_name: true
 ---
 Anirban Mukhopadhyay is a second-year PhD student at Virginia Tech.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/anirbanmukhopadhyay_resume_ds.pdf" "newtab" >}}resumé{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/anmukhop/starter-hugo-academic/blob/master/assets/media/anirbanmukhopadhyay_resume_ds.pdf" "newtab" >}}resumé{{< /staticref >}}
