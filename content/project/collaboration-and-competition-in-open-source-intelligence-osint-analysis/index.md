@@ -24,6 +24,7 @@ authors:
 tags:
   - Django web app
   - REST APIs
+  - Social media misinformation
   - Gamification
   - Research through Design
 categories:
@@ -31,7 +32,7 @@ categories:
 external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
-    icon_pack: ai
+    icon_pack: null
     name: App hosted on Heroku
 image:
   filename: featured.png
