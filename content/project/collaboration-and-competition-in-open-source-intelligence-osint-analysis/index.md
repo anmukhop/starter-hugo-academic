@@ -21,14 +21,12 @@ authors:
   - Sukrit Venkatagiri
   - Anirban Mukhopadhyay
   - Kurt Luther
-tags:
+categories:
   - Django web app
   - REST APIs
   - Social media misinformation
   - Gamification
   - Research through Design
-categories:
-  - HCI
 external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
