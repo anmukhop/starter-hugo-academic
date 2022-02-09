@@ -34,18 +34,18 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Virginia Tech
-      year: ""
+      year: 2025
     - course: M.S. in Computer Science
       institution: Virginia Tech
-      year: ""
+      year: 2023
     - course: Bachelor of Technology in Computer Science and Engineering
       institution: Jadavpur University, India
-      year: -3
+      year: 2018
 email: anirban@vt.edu
 superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech.
+I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech. My focus is on technical HCI research and here I am advised by Dr. Kurt Luther {{< staticref "https://crowd.cs.vt.edu/kurt-luther" "newtab" >}} in the Crowd Intelligence Lab {{< staticref "https://crowd.cs.vt.edu" "newtab" >}}. In .my research,  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
