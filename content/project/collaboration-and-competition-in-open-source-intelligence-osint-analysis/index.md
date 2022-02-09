@@ -8,7 +8,7 @@ summary: >-
   the Spring '21 semester.
 
 
-  Here users can form teams, submit pieces of investigation through flags and judges can award points based on a rubric. Built REST API endpoints to extend the platform for integrating new OSINT tools. 
+  Here users can form teams, submit pieces of investigation through flags and judges can award points based on a rubric. I built REST API endpoints to extend the platform for integrating new OSINT tools. 
 
 
   We used a Research through Design (RtD) process to iterate on the platform and generate design recommendations for systems aimed at verification of online information. Data was collected from system logs, student reflections, and semi-structured interviews.
