@@ -1,6 +1,6 @@
 ---
 title: Anirban Mukhopadhyay
-role: Ph.D. student, Department of Computer Science
+role: Ph.D. student,         Department of Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
