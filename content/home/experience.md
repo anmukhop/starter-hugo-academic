@@ -37,7 +37,7 @@ experience:
   - title: Software Engineer
     company: Microsoft
     company_url: ''
-    company_logo: MS_logo
+    company_logo: microsoft_logo
     location: Hyderabad, India
     date_start: '2018-06-15'
     date_end: '2020-12-21'
