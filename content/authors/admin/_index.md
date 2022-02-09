@@ -46,6 +46,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech. My focus is on technical HCI research and here I am advised by Dr. Kurt Luther {{< staticref "https://crowd.cs.vt.edu/kurt-luther" "newtab" >}} in the Crowd Intelligence Lab {{< staticref "https://crowd.cs.vt.edu" "newtab" >}}. In .my research,  
+I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech. My focus is on technical HCI research and here I am advised by {{< staticref "https://crowd.cs.vt.edu/kurt-luther" "newtab" >}} Dr. Kurt Luther{{< /staticref >}} in the {{< staticref "https://crowd.cs.vt.edu" "newtab" >}} Crowd Intelligence Lab{{< /staticref >}} . In my research,  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
