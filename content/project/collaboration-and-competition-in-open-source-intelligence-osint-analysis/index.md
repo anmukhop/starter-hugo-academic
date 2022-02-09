@@ -29,7 +29,7 @@ categories: []
 external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
-    icon_pack: null
+    icon_pack: false
     name: App hosted on Heroku
 image:
   filename: featured.png
