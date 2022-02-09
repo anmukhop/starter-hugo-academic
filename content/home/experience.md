@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
   - title: Graduate Research Student
-    company: Department of Computer Science, Virginia Tech
+    company: Crowd Intelligence Lab, Department of Computer Science, Virginia Tech
     company_url: 'crowd.cs.vt.edu'
     company_logo: org-x
     location: Blacksburg, Virginia
@@ -37,7 +37,7 @@ experience:
   - title: Software Engineer
     company: Microsoft
     company_url: ''
-    company_logo: org-gc
+    company_logo: MS_logo
     location: Hyderabad, India
     date_start: '2018-06-15'
     date_end: '2020-12-21'
@@ -51,7 +51,7 @@ experience:
   - title: Software Development Engineer Intern
     company: Amazon
     company_url: ''
-    company_logo: org-x
+    company_logo: amazon_logo
     location: Hyderabad, India
     date_start: '2017-05-15'
     date_end: '2027-07-15'
