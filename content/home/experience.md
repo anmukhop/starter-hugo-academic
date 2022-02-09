@@ -37,7 +37,7 @@ experience:
   - title: Software Engineer
     company: Microsoft
     company_url: ''
-    company_logo: microsoft_logo
+    company_logo: Microsoft_logo
     location: Hyderabad, India
     date_start: '2018-06-15'
     date_end: '2020-12-21'
@@ -51,7 +51,7 @@ experience:
   - title: Software Development Engineer Intern
     company: Amazon
     company_url: ''
-    company_logo: amazon_logo
+    company_logo: Amazon_logo
     location: Hyderabad, India
     date_start: '2017-05-15'
     date_end: '2027-07-15'
