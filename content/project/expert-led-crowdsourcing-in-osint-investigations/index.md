@@ -19,7 +19,8 @@ authors:
   - Anirban Mukhopadhyay
   - Kurt Luther
 image:
-  filename: featured
+  filename: crowdsourcing.jpeg
   focal_point: Smart
   preview_only: false
+  caption: Crowdsourcing here is led by experts
 ---
