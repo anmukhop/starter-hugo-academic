@@ -21,10 +21,11 @@ authors:
   - Sukrit Venkatagiri
   - Anirban Mukhopadhyay
   - Kurt Luther
-categories:
+tags:
   - Social media misinformation
   - Gamification
   - Research through design
+categories: []
 external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
