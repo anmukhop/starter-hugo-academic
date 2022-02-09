@@ -12,17 +12,17 @@ weight: 130
 title: Contact
 subtitle:
 
-<!-- content:
+# content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  # autolink: false
   
 # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      captcha: false -->
+#  form:
+#    provider: formspree
+#    formspree:
+#      id: test
+#    netlify:
+#      captcha: false 
   
 design:
   columns: '2'
