@@ -18,10 +18,11 @@ featured: true
 authors:
   - Anirban Mukhopadhyay
   - Kurt Luther
-categories:
+tags:
   - Crowdsourcing
   - Design-based research
   - OSINT
+categories: []
 image:
   filename: crowdsourcing.jpeg
   focal_point: Smart
