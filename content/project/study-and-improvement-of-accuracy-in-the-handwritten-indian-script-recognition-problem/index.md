@@ -22,7 +22,7 @@ authors:
   - Anirban Mukhopadhyay
   - Ram Sarkar
 tags:
-  - Classification
+  - Pattern recognition
   - Indian script recognition in handwritten documents
 image:
   filename: indian_scripts.png
