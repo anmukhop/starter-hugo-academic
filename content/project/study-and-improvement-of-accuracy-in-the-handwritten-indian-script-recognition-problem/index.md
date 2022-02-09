@@ -25,7 +25,8 @@ tags:
   - Classification
   - Indian script recognition in handwritten documents
 image:
-  filename: featured
+  filename: indian_scripts.png
   focal_point: Smart
   preview_only: false
+  caption: Widely used Indian scripts
 ---
