@@ -21,6 +21,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anirban-mukhopadhyay-b44648143/
+  - display:
+      header: false
+    link: https://twitter.com/anmukhop
+    icon_pack: fab
+    icon: twitter
+    label: Twitter
 organizations:
   - name: Virginia Tech
     url: https://cs.vt.edu/
@@ -28,18 +34,18 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Virginia Tech
-      year: 2025
+      year: ""
     - course: M.S. in Computer Science
       institution: Virginia Tech
-      year: 2023
+      year: ""
     - course: Bachelor of Technology in Computer Science and Engineering
       institution: Jadavpur University, India
-      year: 2018
+      year: -3
 email: anirban@vt.edu
 superuser: true
 user_groups: []
 highlight_name: true
 ---
-Anirban Mukhopadhyay is a second-year PhD student at Virginia Tech.
+I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/anmukhop/starter-hugo-academic/blob/master/assets/media/anirbanmukhopadhyay_resume_ds.pdf" "newtab" >}}resumé{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "upload/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
