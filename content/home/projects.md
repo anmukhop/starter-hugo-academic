@@ -8,7 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: project
-  filter_default: 0
+  filter_default: 1
 design:
   columns: "2"
   view: 2
