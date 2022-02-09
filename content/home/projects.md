@@ -11,6 +11,6 @@ content:
   filter_default: 0
 design:
   columns: "2"
-  view: 1
+  view: 2
   flip_alt_rows: false
 ---
