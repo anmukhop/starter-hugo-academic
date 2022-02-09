@@ -24,7 +24,7 @@ tags:
   - OSINT
 categories: []
 image:
-  filename: crowdsourcing.jpeg
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
   caption: Crowdsourcing here is led by experts
