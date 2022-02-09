@@ -26,7 +26,7 @@ experience:
   - title: Graduate Research Student
     company: Crowd Intelligence Lab, Virginia Tech
     company_url: 'https://crowd.cs.vt.edu'
-    company_logo: org-x
+    company_logo: VT
     location: Blacksburg, Virginia
     date_start: '2021-01-07'
     date_end: ''
