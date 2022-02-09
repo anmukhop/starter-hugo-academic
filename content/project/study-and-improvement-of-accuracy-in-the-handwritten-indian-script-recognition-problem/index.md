@@ -25,7 +25,7 @@ tags:
   - Pattern recognition
   - Indian script recognition in handwritten documents
 image:
-  filename: indian_scripts.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Widely used Indian scripts
