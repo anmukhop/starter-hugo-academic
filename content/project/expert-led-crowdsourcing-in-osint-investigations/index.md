@@ -1,6 +1,6 @@
 ---
 title: Expert-led crowdsourcing in Open Source Intelligence (OSINT) Investigations
-date: 2022-02-09T04:03:37.933Z
+date: 2022-02-09T03:04:00.000Z
 summary: >-
   Developed a framework for students trained in social media information
   discovery and verification skills to augment the investigative practices of
