@@ -22,11 +22,9 @@ authors:
   - Anirban Mukhopadhyay
   - Kurt Luther
 categories:
-  - Django web app
-  - REST APIs
   - Social media misinformation
   - Gamification
-  - Research through Design
+  - Research through design
 external_link: ""
 links:
   - url: https://quriosinty.herokuapp.com
