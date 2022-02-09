@@ -48,4 +48,4 @@ highlight_name: true
 ---
 I am a second-year Ph.D. student in the Department of Computer Science at Virginia Tech.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "upload/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
