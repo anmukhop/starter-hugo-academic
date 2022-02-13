@@ -2,8 +2,7 @@
 title: Anirban Mukhopadhyay
 role: Ph.D. student,         Department of Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include crowdsourcing and human-AI interaction.
 interests:
   - Human-AI Interaction
   - Crowdsourcing
@@ -34,7 +33,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Virginia Tech
-      year: 2025
+      year: ""
     - course: M.S. in Computer Science
       institution: Virginia Tech
       year: 2023
