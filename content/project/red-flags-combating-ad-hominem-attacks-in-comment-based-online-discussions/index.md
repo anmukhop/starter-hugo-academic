@@ -2,7 +2,7 @@
 title: "Red Flags: Combating ad hominem attacks in comment-based online discussions"
 date: 2021-12-08T05:52:40.081Z
 summary: >-
-  Computer Supported Collaborative Work Course project.
+  Computer Supported Collaborative Work Course project 2021
 
 
   Here we propose a flagging mechanism that modifies the process of reporting currently found in popular platforms like Facebook, Instagram, and Twitter. We describe the design, development, and evaluation of a method of curbing ad hominem attacks that occur in common online discussion spaces, particularly comments and replies to posts. Through ethnographic interviews as well as a small-scale user study, we explore the emotional experiences of being the target of or witnessing trolling online, revealing the needs of these groups in these interactions.
