@@ -6,12 +6,21 @@ summary: >-
   modify the pose of that person by dragging and dropping body joints.
 
 
-  We use {{< staticref "https://github.com/microsoft/CoCosNet-v2" "newtab" >}} . CoCosNet-v2{{< /staticref >}}  to synthesize the image of the reposed person. We use {{< staticref "https://github.com/Hzzone/pytorch-openpose" "newtab" >}} OpenPose{{< /staticref >}} to extract the pose of the person. We use {{< staticref "https://ipywidgets.readthedocs.io/en/latest/" "newtab" >}} IPython widgets{{< /staticref >}}  to enable interaction with the extracted pose.
+  We use [CoCosNet-v2](https://github.com/microsoft/CoCosNet-v2) to synthesize the image of the reposed person. We use [OpenPose](https://github.com/Hzzone/pytorch-openpose) to extract the pose of the person. We use [ IPython widgets](https://ipywidgets.readthedocs.io/en/latest/) to enable interaction with the extracted pose.
 draft: false
 featured: false
+authors:
+  - Anirban Mukhopadhyay
+  - Badour AlBahar
+  - Hongjie Chen
 tags:
   - Human reposing
   - Human-AI Interaction
+links:
+  - url: https://drive.google.com/file/d/1NzMc1fPWqjustazzCcdM9bBTBqwnsRS7/view?usp=sharing
+    name: Jupyter notebook with interactive elements for human reposing
+    icon_pack: fab
+    icon: github
 image:
   filename: featured.png
   focal_point: Smart
