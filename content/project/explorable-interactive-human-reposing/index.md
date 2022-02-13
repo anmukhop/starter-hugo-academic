@@ -6,7 +6,7 @@ summary: >-
   modify the pose of that person by dragging and dropping body joints.
 
 
-  We use {{< staticref "https://github.com/microsoft/CoCosNet-v2" "newtab" >}}CoCosNet-v2{{< /staticref >}}  to synthesize the image of the reposed person. We use {{< staticref "https://github.com/Hzzone/pytorch-openpose" "newtab" >}}OpenPose{{< /staticref >}} to extract the pose of the person. We use {{< staticref "https://ipywidgets.readthedocs.io/en/latest/" "newtab" >}}IPython widgets{{< /staticref >}}  to enable interaction with the extracted pose.
+  We use {{< staticref "https://github.com/microsoft/CoCosNet-v2" "newtab" >}} . CoCosNet-v2{{< /staticref >}}  to synthesize the image of the reposed person. We use {{< staticref "https://github.com/Hzzone/pytorch-openpose" "newtab" >}} OpenPose{{< /staticref >}} to extract the pose of the person. We use {{< staticref "https://ipywidgets.readthedocs.io/en/latest/" "newtab" >}} IPython widgets{{< /staticref >}}  to enable interaction with the extracted pose.
 draft: false
 featured: false
 tags:
