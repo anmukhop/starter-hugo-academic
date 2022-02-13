@@ -34,13 +34,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science, 2021 - Present
       institution: Virginia Tech
-      year: 2025
+      year: -1
     - course: M.S. in Computer Science, 2021 - Present
       institution: Virginia Tech
       year: ""
-    - course: Bachelor of Technology in Computer Science and Engineering
+    - course: Bachelor of Technology in Computer Science and Engineering, 2014 - 2018
       institution: Jadavpur University, India
-      year: 2018
+      year: ""
 email: anirban@vt.edu
 superuser: true
 user_groups: []
