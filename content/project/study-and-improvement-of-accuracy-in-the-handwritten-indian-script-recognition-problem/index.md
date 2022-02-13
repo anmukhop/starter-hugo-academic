@@ -31,7 +31,6 @@ image:
   caption: Widely used Indian scripts
 ---
 Used texture and frequency-based features along with CNN. Performed classifier combination to achieve high accuracy in the script identification task.\
-\
 Papers published:\
 \[1] Mukhopadhyay, Anirban, et al. "A study of different classifier combination approaches for handwritten Indic Script Recognition." Journal of Imaging (2018): 39.\
 \[2] Mukhopadhyay, Anirban, et al. "Handwritten Indic script recognition based on the Dempster–Shafer theory of evidence." Journal of Intelligent Systems 29.1 (2020): 264-282.
