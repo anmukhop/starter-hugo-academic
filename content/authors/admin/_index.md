@@ -32,12 +32,12 @@ organizations:
     url: https://cs.vt.edu/
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science, 2021 - Present
       institution: Virginia Tech
       year: 2025
-    - course: M.S. in Computer Science
+    - course: M.S. in Computer Science, 2021 - Present
       institution: Virginia Tech
-      year: 2023
+      year: ""
     - course: Bachelor of Technology in Computer Science and Engineering
       institution: Jadavpur University, India
       year: 2018
