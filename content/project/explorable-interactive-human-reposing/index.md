@@ -2,8 +2,9 @@
 title: Explorable Interactive Human Reposing
 date: 2021-12-09T03:53:18.992Z
 summary: >-
-  We design a notebook to allow the user to upload an image of a person and
-  modify the pose of that person by dragging and dropping body joints.
+  Human-AI Interaction Course project 2021 - We design a notebook to allow the
+  user to upload an image of a person and modify the pose of that person by
+  dragging and dropping body joints.
 
 
   We use [CoCosNet-v2](https://github.com/microsoft/CoCosNet-v2) to synthesize the image of the reposed person. We use [OpenPose](https://github.com/Hzzone/pytorch-openpose) to extract the pose of the person. We use [ IPython widgets](https://ipywidgets.readthedocs.io/en/latest/) to enable interaction with the extracted pose.
