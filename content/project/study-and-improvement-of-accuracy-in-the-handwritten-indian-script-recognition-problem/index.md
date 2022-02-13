@@ -1,7 +1,7 @@
 ---
 title: Study and improvement of accuracy in the handwritten Indian script
   recognition problem
-date: 2022-02-04T04:16:05.466Z
+date: 2019-12-05T04:16:05.466Z
 summary: >-
   Used texture and frequency-based features along with CNN. Performed classifier
   combination to achieve high accuracy in the script identification task.
