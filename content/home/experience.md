@@ -30,9 +30,9 @@ experience:
     location: Blacksburg, Virginia
     date_start: '2021-01-07'
     date_end: ''
-    description: |2-
+    description: >
         Research Assistant at the Crowd Intelligence Lab with Dr. Kurt Luther.
-        RelevantCoursework - Human-AI Interaction, Data Analytics, Deep Learning, Usability Engineering, Computer Supported Collaborative
+        Relevant Coursework - Human-AI Interaction, Data Analytics, Deep Learning, Usability Engineering, Computer Supported Collaborative
     
   - title: Software Engineer
     company: Microsoft
