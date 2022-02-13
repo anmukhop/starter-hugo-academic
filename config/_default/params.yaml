@@ -23,7 +23,7 @@ twitter: ''
 email: anirban@vt.edu
 phone: +15404493700
 address:
-  street: 701 Appalachian Dr
+  street: 
   city: Blacksburg
   region: VA
   postcode: '24060'
@@ -33,7 +33,7 @@ address:
 contact_links:
   - icon: linkedin-in
     icon_pack: fab
-    name: Please connect with me on LinkedIn
+    name: Connect with me on LinkedIn
     link: 'https://www.linkedin.com/in/anirban-mukhopadhyay-b44648143/'
 
 # Site header
