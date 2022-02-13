@@ -34,7 +34,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science, 2021 - Present
       institution: Virginia Tech
-      year: -1
+      year: ""
     - course: M.S. in Computer Science, 2021 - Present
       institution: Virginia Tech
       year: ""
